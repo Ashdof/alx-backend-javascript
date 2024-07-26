@@ -3,7 +3,7 @@ This was the first lesson in the ALX Software Engineering Backend specialization
 
 # Learning Objectives
 At the end of the lesson, we were able to:
-- Explainwhat ES6 is
+- Explain ES6
 - Identify the new features introduced in ES6
 - Identify difference between a constant and a variable
 - Explain block-scoped variables
